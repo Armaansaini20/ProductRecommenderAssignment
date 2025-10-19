@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "title": "Wireless Mouse Pro",
+    "description": "Sleek wireless mouse with ergonomic design and long battery life.",
+    "price": 29.99,
+    "image_url": "https://via.placeholder.com/300x300.png?text=Mouse",
+    "category": "accessories"
+  },
+  {
+    "id": "p2",
+    "title": "Mechanical Keyboard X",
+    "description": "Compact mechanical keyboard with hot-swappable switches and RGB.",
+    "price": 79.99,
+    "image_url": "https://via.placeholder.com/300x300.png?text=Keyboard",
+    "category": "accessories"
+  },
+  {
+    "id": "p3",
+    "title": "USB-C Hub 6-in-1",
+    "description": "Multiport hub with HDMI, USB-A, SD card reader and fast charging.",
+    "price": 39.99,
+    "image_url": "https://via.placeholder.com/300x300.png?text=Hub",
+    "category": "accessories"
+  }
+]
